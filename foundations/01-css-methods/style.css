@@ -1,0 +1,9 @@
+div {
+  background-color: red;
+  color: white;
+  font-size: 45px;
+  text-align: center;
+
+  /*Didn't add this*/
+  font-weight: bold;
+}
